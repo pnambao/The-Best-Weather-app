@@ -1,0 +1,36 @@
+#forecast {
+    position: absolute;
+    left: -4%;
+}
+
+header {
+    height: 200px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(./Assets/forecast.jpg);
+}
+
+h1 {
+    margin-top: 50px;
+    font-family:'Yeseva One', cursive;
+    font-size: 80px;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+body {
+    font-family:'Yomogi', cursive;
+    background-color: slategrey;
+}
+
+.card-body {
+    background-color:dimgray;
+    border-radius: 10px;
+}
+
+.card-title {
+    color: blanchedalmond;
+}
+
+.lis-group-item {
+    color: floralwhite;
+}
