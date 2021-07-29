@@ -8,7 +8,7 @@ All the cities the user searches will be stored in the local storage, and on a l
 This is how this app is meant to work, however, at this stage there are still many components missing, that need to be refined and reworked.
 
 
-Here is the link to the app: (https://pnambao.github.io/Work-day-Scheduler-App/)
+Here is the link to the app: (https://pnambao.github.io/The-Best-Weather-app/)
 
 This is an example image of the page: 
 
